@@ -35,6 +35,10 @@ We have Github repositories showing how our ~~[R](https://github.com/Kaggle/dock
 
 Do make sure you're using **Python 3**, though.
 
+For example, run this command to activate your Python 3 environment (assuming you have one already created named `py35`):
+
+   ```source activate py35```
+
 
 
 ## Command Line Execution
