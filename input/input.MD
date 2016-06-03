@@ -4,4 +4,4 @@ This may include:
  - sampleSubmission.csv
  - test.csv
  - train.csv
- - any supporting datasets or documents about the competition
+ - plus any supporting datasets or documents about the competition
